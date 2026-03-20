@@ -31,7 +31,7 @@ namespace Broadcasts
         [Description("текст броадкаста о Смерти")]
         public string TextDie { get; set; } = "Ypu die";
 
-        [Description("текст броадкаста о Смерти")]
+        [Description("текст броадкаста о окончании раунда")]
         public string TextEndRound { get; set; } = "Round End";
     }
 }
